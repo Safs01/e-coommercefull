@@ -1,0 +1,46 @@
+<style>
+  body {
+    background-color: #ffeef2;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+  }
+
+  .btn-pink-1 {
+    background-color: #ff69b4;
+    color: white;
+    border: none;
+  }
+
+  .btn-pink-1:hover {
+    background-color: #ff85c1;
+  }
+
+  .btn-pink-2 {
+    background-color: #ffc0cb;
+    color: black;
+    border: none;
+  }
+
+  .btn-pink-2:hover {
+    background-color: #ffb6c1;
+  }
+
+  .btn-pink-3 {
+    background-color: #f8bbd0;
+    color: #fff;
+    border: none;
+  }
+
+  .btn-pink-3:hover {
+    background-color: #f48fb1;
+  }
+
+  .btn-outline-pink {
+    border: 2px solid #ff69b4;
+    color: #ff69b4;
+    background: transparent;
+  }
+
+  .btn-outline-pink:hover {
+    background-color: #ffebf0;
+  }
+</style>
